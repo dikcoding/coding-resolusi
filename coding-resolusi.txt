@@ -1,4 +1,4 @@
 Coding Resolusi
 - Konsisten untuk membangun aplikas
-- Mengembangkan aplikasi
 - Membuat aplikasi sama tim
+- aplikasi geografi
